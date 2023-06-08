@@ -9,7 +9,7 @@
 ## Что под капотом?<br>
 [YOLOv8](https://github.com/ultralytics/ultralytics) - семейство моделей обнаружения объектов на базе YOLO от Ultralytics<br>
 В данном проекте исспользованы YOLOv8m
-Картинка-схема с матерью драконов
+![ ](https://github.com/GalkaMT/AristokratBot/blob/main/img/Снимок экрана от 2023-06-08 09-11-33.png)
 
 ## Использование
 Добавить гифку экранки бота
