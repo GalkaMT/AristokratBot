@@ -9,7 +9,7 @@
 ## Что под капотом?<br>
 [YOLOv8](https://github.com/ultralytics/ultralytics) - семейство моделей обнаружения объектов на базе YOLO от Ultralytics<br>
 В данном проекте исспользованы YOLOv8m   
-![ ](https://github.com/GalkaMT/AristokratBot/blob/main/img/Снимок.png)
+![ ](img/Снимок.png)
 
 ## Использование
 Добавить гифку экранки бота
