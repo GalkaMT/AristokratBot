@@ -4,7 +4,21 @@
 Создать сервис, который определяет разные виды бокалов,тарелок,столовых приборов<br>
 
 ## Список определяемых классов<br>
-Добавь табличку с классами!<br>
+| Cutlery | Glass no leg | Glass leg |  Plates |
+| --- | --- | --- | --- |
+|Dessert fork | Glass for soft drinks | Champagne glass | Bread plate|
+|Dessert spoon | Rox | Cognac glass | Deep plate|
+|Table fork | Shot | Cordial|  Dining Plate |
+|Table knife | Beer glass 2 | Hurricane |
+|Tablespoon | Beer glass 4 | Margarita glass |
+|Salad fork | Highball | Martini glass |
+|Bar spoon | Glass no leg | Wine glass |
+|Lobster fork | | Beer glass 1 |  
+|Fish fork | | Beer glass 3 |
+|Snail fork | | Coupe|
+|Fondue fork | | |
+|Butter knife | | |
+|Snail forceps | | |
 
 ## Что под капотом?<br>
 [YOLOv8](https://github.com/ultralytics/ultralytics) - семейство моделей обнаружения объектов на базе YOLO от Ultralytics<br>
@@ -20,9 +34,6 @@
 ![ ](img/video_2023-06-08_12-36-47.gif)
 
 ## Над проектом работали<br>
-[IvaElen](https://github.com/IvaElen)<br>
-[GalkaMT](https://github.com/GalkaMT)<br>
-[AlexeyPratsevityi](https://github.com/AlexeyPratsevityi)<br>
-
-
-
+[IvaElen](https://github.com/IvaElen) -сбор и разметка датасета, обучение моделей<br>
+[GalkaMT](https://github.com/GalkaMT) --сбор и разметка датасета, обучение моделей, оформление репозитория<br>
+[AlexeyPratsevityi](https://github.com/AlexeyPratsevityi) - написание телеграм-бота, финальная архитектура<br>
